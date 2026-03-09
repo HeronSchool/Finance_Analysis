@@ -15,11 +15,12 @@ Stock price data was collected using the Python library yfinance.
 Assets analyzed:
 - Apple (AAPL)
 - Tesla (TSLA)
-- Samsung Electronics
-- SK Hynix
+- Samsung Electronics (005930.KS)
+- SK Hynix (000660.KS)
 
   Market benchmark
-  - S&P 500 Index
+  - S&P 500 Index (^GSPC)
+  - KOSPI (^KS11)
 
   Period
   - 2023 ~ Present
