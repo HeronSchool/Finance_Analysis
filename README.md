@@ -33,17 +33,17 @@ $R_t = (P_t - P_{t-1}) / P_{t-1})$
 #### CAPM Regression
 We estimate the following regression model :
 
-R_i = α + β R_m +  ε
+$R_i = α + β R_m +  ε$
 
 Where:
-- R_i : stock return
-- R_m : market return
-- β : sensitivity to market movements
+- $R_i$ : stock return
+- $R_m$ : market return
+- $β$ : sensitivity to market movements
 
 #### Risk Decomposition
 Total variance of a stock return can be decomposed as:
 
-Var(R_i) = β^2Var(R_m) + Var(ε)
+$Var(R_i) = β^2Var(R_m) + Var(ε)$
 
 This allows us to spearate risk into:
 - Systematic risk (market risk)
